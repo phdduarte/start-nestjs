@@ -1,8 +1,8 @@
 {
-  "name": "eva-backend",
+  "name": "punc-backend",
   "version": "0.0.1",
-  "description": "Sistema de Gerenciamento de Benefícios",
-  "author": "Usemobile",
+  "description": "Sistema de Gerenciamento de Usuarios no Instagram",
+  "author": "NeXTIME",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
